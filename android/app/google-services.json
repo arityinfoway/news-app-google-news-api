@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "737698220211",
+    "project_id": "news-hunt-3d49b",
+    "storage_bucket": "news-hunt-3d49b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737698220211:android:f296b68d6b20af7fa188c6",
+        "android_client_info": {
+          "package_name": "com.arity.newshunt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737698220211-ct91i1vgf5m7mb05ffh538h2ejf56mkk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNJkHHbLIG97pIUTIWq8EgKFC8TdK3RCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737698220211-ct91i1vgf5m7mb05ffh538h2ejf56mkk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
