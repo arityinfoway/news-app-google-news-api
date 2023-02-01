@@ -1,7 +1,10 @@
 # news
 
 A new Flutter project.
-
+For more customize and Google news APIs 
+New App Development, Please contact us
+callto:+919429877966
+mailto:arity.infoway.com
 ## Getting Started
 
 This project is a starting point for a Flutter application.
